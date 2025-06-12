@@ -1,0 +1,275 @@
+{
+    "university": {
+        "name": "Université Antonine (UA)",
+        "code": "UA",
+        "id": 10,
+        "website": "www.ua.edu.lb",
+        "email": "info.admission@ua.edu.lb",
+        "image": "UA.jpg",
+        "contact_numbers": [
+            "05/927000",
+            "05/927001",
+            "08/902020",
+            "08/902030",
+            "08/902040",
+            "08/902050",
+            "06/660029",
+            "06/666235"
+        ],
+        "addresses": [
+            "Hadath - Baabda",
+            "Zahle - Qabb Elias",
+            "Majdlaya - North Lebanon"
+        ],
+        "study_system": {
+            "description": "The university uses a credit-hour system and offers instruction in Arabic, French, and English depending on the program and course.",
+            "instruction_languages": [
+                "English",
+                "Arabic"
+            ],
+            "study_modes": [
+                "Full-time",
+                "Part-time"
+            ]
+        },
+        "faculties": [
+            {
+                "name": "Faculty of Engineering",
+                "programs": [
+                    {
+                        "name": "Telecommunications and Information Engineering",
+                        "degree": "Diploma",
+                        "duration": "1 year"
+                    },
+                    {
+                        "name": "Computer Networks and Programming Engineering",
+                        "degree": "Diploma",
+                        "duration": "1 year"
+                    },
+                    {
+                        "name": "Multimedia and Audiovisual Engineering",
+                        "degree": "Diploma",
+                        "duration": "1 year"
+                    },
+                    {
+                        "name": "Internet, Networks, and Telecommunications",
+                        "degree": "Diploma",
+                        "duration": "1 year"
+                    },
+                    {
+                        "name": "Telecommunication Systems Engineering",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Communication and Media",
+                "programs": [
+                    {
+                        "name": "Advertising and Public Relations",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Audiovisual Media",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Decorative Arts",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "External Communications",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Media and Communication",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Institute of Physical Education",
+                "programs": [
+                    {
+                        "name": "Sports and Physical Education",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Physical and Sports Education",
+                        "degree": "Certificate",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Physical and Sports Education",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Business",
+                "programs": [
+                    {
+                        "name": "Business Administration",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Business Administration",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Accounting",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Auditing and Supervision",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Human Resources Management",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Banking and Finance",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Marketing and Management",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Banking and Finance",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Information Systems Management",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Logistics and Operations Management",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Public Health",
+                "programs": [
+                    {
+                        "name": "Physiotherapy",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Biomedical Laboratory Technology",
+                        "degree": "Diploma",
+                        "duration": "1 year"
+                    },
+                    {
+                        "name": "Nursing",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Nursing",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Theology",
+                "programs": [
+                    {
+                        "name": "Pastoral Studies",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Theology",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Music and Musicology",
+                "programs": [
+                    {
+                        "name": "Musicology",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Sacred Musicology",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Music Therapy",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Music Education",
+                        "degree": "License",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Musicology",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Sacred Musicology",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Music Therapy",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Arabic Musicology",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "European Musicology",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Audiovisual and Technological Music",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            }
+        ]
+    }
+}

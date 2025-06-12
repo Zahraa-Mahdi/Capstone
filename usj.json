@@ -1,0 +1,140 @@
+{
+    "university": {
+        "name": "Saint Joseph University of Beirut",
+        "code": "USJ",
+        "id": 11,
+        "website": "https://www.usj.edu.lb",
+        "email": "info@usj.edu.lb",
+        "image": "USJ.png",
+        "contact_numbers": [
+            "+961 1 421000",
+            "+961 1 421072"
+        ],
+        "addresses": [
+            "Damascus Road, Beirut, Lebanon",
+            "Beirut (Multiple Campuses)",
+            "Zahle",
+            "Tripoli",
+            "Saida",
+            "Dubai, UAE",
+            "Paris, France"
+        ],
+        "study_system": {
+            "description": "French-based education system with credit-hour modules across semesters. French is the primary language of instruction.",
+            "instruction_languages": [
+                "English",
+                "Arabic"
+            ],
+            "study_modes": [
+                "Full-time",
+                "Part-time"
+            ]
+        },
+        "faculties": [
+            {
+                "name": "Faculty of Medicine",
+                "programs": [
+                    {
+                        "name": "General Medicine",
+                        "degree": "Doctorate",
+                        "duration": "Variable"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Pharmacy and Nutrition",
+                "programs": [
+                    {
+                        "name": "Nutrition Sciences",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Pharmacy",
+                        "degree": "Doctorate",
+                        "duration": "Variable"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Engineering",
+                "programs": [
+                    {
+                        "name": "All Engineering Programs",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Law and Political Science",
+                "programs": [
+                    {
+                        "name": "Law",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Business and Economics",
+                "programs": [
+                    {
+                        "name": "Business Administration",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Institute of Speech and Language Therapy",
+                "programs": [
+                    {
+                        "name": "Speech and Language Therapy",
+                        "degree": "Bachelor + Master",
+                        "duration": "Variable"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Humanities and Social Sciences",
+                "programs": [
+                    {
+                        "name": "Psychology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Arts and Languages",
+                "programs": [
+                    {
+                        "name": "Translation and Interpretation",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Institute of Audiovisual and Cinema",
+                "programs": [
+                    {
+                        "name": "Cinema and Audiovisual Studies",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "university": {
+        "name": "Lebanese University",
+        "code": "LU",
+        "id": 8,
+        "website": "https://www.ul.edu.lb",
+        "email": "info@ul.edu.lb",
+        "image": "lu.png",
+        "contact_numbers": [
+            "01-780200",
+            "01-780201",
+            "01-780202"
+        ],
+        "addresses": [],
+        "study_system": {
+            "description": "The Lebanese University follows the European Credit Transfer System (ECTS). Instruction is primarily in French and Arabic, with some programs in English.",
+            "instruction_languages": [
+                "English",
+                "Arabic"
+            ],
+            "study_modes": [
+                "Full-time",
+                "Part-time"
+            ]
+        },
+        "faculties": [
+            {
+                "name": "Faculty of Sciences",
+                "programs": [
+                    {
+                        "name": "Mathematics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Physics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Chemistry",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Biology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Computer Science",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Mathematics",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Physics",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Biotechnology",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Engineering",
+                "programs": [
+                    {
+                        "name": "Electrical Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Mechanical Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Civil Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Computer Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Industrial Engineering",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Medicine",
+                "programs": [
+                    {
+                        "name": "Medicine",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Dentistry",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Pharmacy",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Medical Laboratory Sciences",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Law and Political Science",
+                "programs": [
+                    {
+                        "name": "Law",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Political Science",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "International Relations",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Business Administration",
+                "programs": [
+                    {
+                        "name": "Business Administration",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Accounting",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Finance",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Marketing",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "MBA",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Literature and Humanities",
+                "programs": [
+                    {
+                        "name": "Arabic Literature",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "French Literature",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "English Literature",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "History",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Philosophy",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Education",
+                "programs": [
+                    {
+                        "name": "Primary Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Secondary Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Educational Administration",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Fine Arts and Architecture",
+                "programs": [
+                    {
+                        "name": "Architecture",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Graphic Design",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Interior Design",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Information Technology",
+                "programs": [
+                    {
+                        "name": "Computer Science",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Information Systems",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Data Science",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "university": {
+        "name": "Al-Maaref University",
+        "code": "MU",
+        "id": 9,
+        "website": "www.mu.edu.lb",
+        "email": "info@mu.edu.lb",
+        "image": "MU.jpg",
+        "contact_numbers": [
+            "01/850062",
+            "01/850063"
+        ],
+        "addresses": [
+            "Beirut - Airport Road"
+        ],
+        "study_system": {
+            "description": "The university adopts a credit-hour and semester-based system. The languages of instruction are Arabic and English.",
+            "instruction_languages": [
+                "English",
+                "Arabic"
+            ],
+            "study_modes": [
+                "Full-time",
+                "Part-time"
+            ]
+        },
+        "faculties": [
+            {
+                "name": "Faculty Of Sciences",
+                "programs": [
+                    { "name": "Applied Statistics", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Mathematics", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Computer Science", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Physics", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Chemistry", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Biology", "degree": "Bachelor", "duration": "3-4 years" }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty Of Engineering",
+                "programs": [
+                    { "name": "Civil Engineering", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Computer Engineering and Technology", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Electrical and Electronics Engineering", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Mechanical Engineering", "degree": "Bachelor", "duration": "3-4 years" }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty Of Business Administration",
+                "programs": [
+                    { "name": "Accounting", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Economics", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Banking & Finance", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Human Resources Management", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Information Technology and Management Systems", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Management", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "International Business", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Marketing", "degree": "Bachelor", "duration": "3-4 years" }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty Of Mass Communication And Fine Arts",
+                "programs": [
+                    { "name": "Radio and Television", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Journalism and Digital Media", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Advertising and Public Relations", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Media Studies", "degree": "Bachelor", "duration": "3-4 years" }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty Of Health Sciences",
+                "programs": [
+                    { "name": "Radiography Sciences", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Medical Laboratory Sciences", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Nursing Sciences", "degree": "Bachelor", "duration": "3-4 years" }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty Of Education",
+                "programs": [
+                    { "name": "Teaching Diploma (TD)", "degree": "Diploma", "duration": "1-2 years" },
+                    { "name": "Early Childhood Education", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Teaching Arabic Language", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Teaching English Language", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Teaching of Mathematics and Science", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Teaching Physical and Health Education", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "Teaching Religious Education", "degree": "Bachelor", "duration": "3-4 years" }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty Of Religions & Human Sciences",
+                "programs": [
+                    { "name": "BA in Comparative Religions", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "BA in Quranic Studies and Prophetic Hadith", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "BA in History and Comparative Civilizations", "degree": "Bachelor", "duration": "3-4 years" },
+                    { "name": "BA in Islamic Studies; Philosophy and Theology", "degree": "Bachelor", "duration": "3-4 years" }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty Of Translation And Languages",
+                "programs": [],
+                "admission_requirements": []
+            }
+        ]
+    }
+}

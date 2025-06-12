@@ -1,0 +1,221 @@
+{
+    "university": {
+        "name": "Arab Open University",
+        "code": "AOU",
+        "id": 1,
+        "website": "www.aou.edu.lb",
+        "email": "studentaffairs@aou.edu.lb",
+        "image": "AOU.png",
+        "contact_numbers": [
+            "01/391540",
+            "01/392139",
+            "01/392145",
+            "04/404101",
+            "06/409440",
+            "08/829360"
+        ],
+        "addresses": [
+            "Fassouh, Al-Fatah Street, Urfal",
+            "Beirut, Old Sabtiyeh Road, next to Yacoub Hospital",
+            "Antelias, Old Baskinta Road",
+            "Tripoli, opposite Al-Salam Hospital",
+            "Zahle, Ksara"
+        ],
+        "study_system": {
+            "description": "The university adopts a credit-hour system. The language of instruction is English (except for the Education major, which is taught in Arabic).",
+            "instruction_languages": [
+                "English",
+                "Arabic"
+            ],
+            "study_modes": [
+                "Full-time",
+                "Part-time"
+            ]
+        },
+        "faculties": [
+            {
+                "name": "Business Administration",
+                "programs": [
+                    {
+                        "name": "Business Administration",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Human Resources Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Finance",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Marketing",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Administrative Systems",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Accounting",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Economics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Microfinance",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Business Administration",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Human Resources Management",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Finance",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": [
+                    "Official Baccalaureate certificate or equivalent (for Bachelor programs)",
+                    "Bachelor's degree from recognized university (for Master programs)",
+                    "Minimum English proficiency (TOEFL/IELTS) for non-native speakers",
+                    "Completed application form and required documents",
+                    "Personal interview (if required)"
+                ]
+            },
+            {
+                "name": "Computer Science and IT",
+                "programs": [
+                    {
+                        "name": "Information Technology and Programming",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Computer Science",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Interactive Web Development",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Information Security and Telecommunications Networks",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Management Information Systems",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Information Security and Cybercrime Auditing",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": [
+                    "Official Baccalaureate certificate or equivalent with strong math background (for Bachelor)",
+                    "Bachelor's degree in related field (for Master)",
+                    "Minimum English proficiency (TOEFL/IELTS) for non-native speakers",
+                    "Completed application form and required documents",
+                    "Personal interview or entrance exam (if required)"
+                ]
+            },
+            {
+                "name": "Graphic Design and Multimedia",
+                "programs": [
+                    {
+                        "name": "Multimedia Design",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Graphic and Multimedia Design",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": [
+                    "Official Baccalaureate certificate or equivalent",
+                    "Portfolio submission (if required)",
+                    "Minimum English proficiency (TOEFL/IELTS) for non-native speakers",
+                    "Completed application form and required documents"
+                ]
+            },
+            {
+                "name": "Education",
+                "programs": [
+                    {
+                        "name": "Primary Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": [
+                    "Official Baccalaureate certificate or equivalent",
+                    "Strong command of Arabic language",
+                    "Minimum English proficiency (TOEFL/IELTS) for non-native speakers",
+                    "Completed application form and required documents"
+                ]
+            },
+            {
+                "name": "Languages",
+                "programs": [
+                    {
+                        "name": "English Language and Literature",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Translation",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": [
+                    "Official Baccalaureate certificate or equivalent",
+                    "Demonstrated proficiency in English",
+                    "Minimum English proficiency test (TOEFL/IELTS) for non-native speakers",
+                    "Completed application form and required documents"
+                ]
+            },
+            {
+                "name": "Electronic Media",
+                "programs": [
+                    {
+                        "name": "Electronic Media",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": [
+                    "Official Baccalaureate certificate or equivalent",
+                    "Minimum English proficiency (TOEFL/IELTS) for non-native speakers",
+                    "Completed application form and required documents",
+                    "Personal interview (if required)"
+                ]
+            }
+        ]
+    }
+}

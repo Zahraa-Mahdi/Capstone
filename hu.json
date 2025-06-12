@@ -1,0 +1,321 @@
+{
+    "university": {
+        "name": "Haigazian University",
+        "code": "HU",
+        "id": 13,
+        "website": "www.haigazian.edu.lb",
+        "email": "admission@haigazian.edu.lb",
+        "image": "Hu.png",
+        "contact_numbers": [
+            "01/349230 - 1",
+            "01/353010 - 1 - 2"
+        ],
+        "addresses": [
+            "Kantari - Spears - Beirut"
+        ],
+        "study_system": {
+            "description": "Language of instruction: English. Credit system.",
+            "instruction_languages": [
+                "English"
+            ],
+            "study_modes": [
+                "Full-time",
+                "Part-time"
+            ]
+        },
+        "faculties": [
+            {
+                "name": "Business Administration",
+                "programs": [
+                    {
+                        "name": "Accounting",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Accounting & Finance",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Banking and Finance",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Business Administration",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Economics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Hospitality Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Human Resources Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Marketing and Advertising",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Human Resources Management",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Marketing",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": [
+                    [
+                        "SAT I Writing",
+                        "TOEFL",
+                        "IELTS"
+                    ],
+                    "Grade 12 or equivalent",
+                    {
+                        "SAT I & II": "Required depending on curriculum and ministry approval",
+                        "GMAT": "Required for MBA applicants",
+                        "GRE": "Required for Master of Arts applicants"
+                    }
+                ]
+            },
+            {
+                "name": "Sciences",
+                "programs": [
+                    {
+                        "name": "Biology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Chemistry",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Computer Science",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Environmental Health",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Mathematics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Medical Laboratory Sciences",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Nutrition and Dietetics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Physics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": [
+                    [
+                        "SAT I Writing",
+                        "TOEFL",
+                        "IELTS"
+                    ],
+                    "Grade 12 or equivalent",
+                    {
+                        "SAT I & II": "Required depending on curriculum and ministry approval",
+                        "GMAT": "Required for MBA applicants",
+                        "GRE": "Required for Master of Arts applicants"
+                    }
+                ]
+            },
+            {
+                "name": "Education and Social Sciences",
+                "programs": [
+                    {
+                        "name": "Christian Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Early Childhood Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Elementary Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Political Science",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Psychology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Social Work",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Sociology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Special Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Teaching Diploma in Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Teaching Diploma in Christian Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Teaching Diploma in Early Childhood Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Teaching Diploma in Special Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Educational Administration",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "General Psychology",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Psychology in Institutions and Industries",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Psychology in Advertising and Marketing",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Educational Counseling",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Special Education",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Christian Education",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": [
+                    [
+                        "SAT I Writing",
+                        "TOEFL",
+                        "IELTS"
+                    ],
+                    "Grade 12 or equivalent",
+                    {
+                        "SAT I & II": "Required depending on curriculum and ministry approval",
+                        "GMAT": "Required for MBA applicants",
+                        "GRE": "Required for Master of Arts applicants"
+                    }
+                ]
+            },
+            {
+                "name": "Arts and Humanities",
+                "programs": [
+                    {
+                        "name": "Arabic Language and Literature",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Armenian Language and Literature",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "English Language",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "English Literature",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "History",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Music",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": [
+                    [
+                        "SAT I Writing",
+                        "TOEFL",
+                        "IELTS"
+                    ],
+                    "Grade 12 or equivalent",
+                    {
+                        "SAT I & II": "Required depending on curriculum and ministry approval",
+                        "GMAT": "Required for MBA applicants",
+                        "GRE": "Required for Master of Arts applicants"
+                    }
+                ]
+            }
+        ]
+    }
+}

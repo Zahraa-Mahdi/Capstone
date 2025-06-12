@@ -1,0 +1,266 @@
+{
+    "university": {
+        "name": "American University of Culture and Education (AUCE)",
+        "code": "AUCE",
+        "id": 3,
+        "website": "www.auce.edu.lb",
+        "email": "info@auce.edu.lb",
+        "image": "AUCE.jpg",
+        "contact_numbers": [
+            "01/385566",
+            "01/393596",
+            "05/467346",
+            "05/467348",
+            "08/379503",
+            "03/774740",
+            "05/461053",
+            "05/466377",
+            "05/300388",
+            "03/086030",
+            "01/689492",
+            "03/773156",
+            "06/952701",
+            "06/952702",
+            "07/762200",
+            "07/741823",
+            "07/452444"
+        ],
+        "addresses": [
+            "Badaro - Main Branch",
+            "Hadath - Galeria Semaan",
+            "Baalbeck - Qaa' Region",
+            "Academy of Excellence - Victor Center",
+            "Baakline - Facing the Court",
+            "Baouchrieh",
+            "Koura",
+            "Nabatieh",
+            "Tyre - Doha Area",
+            "Bint Jbeil"
+        ],
+        "study_system": {
+            "description": "English is the language of instruction. The university follows a classroom-based credit-hour system.",
+            "instruction_languages": [
+                "English",
+                "Arabic"
+            ],
+            "study_modes": [
+                "Full-time",
+                "Part-time"
+            ]
+        },
+        "faculties": [
+            {
+                "name": "Business and Tourism",
+                "programs": [
+                    {
+                        "name": "Business Administration",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Accounting",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Finance",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Hotel Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Human Resources",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Tourism Product & Club Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Health Center and Investment Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Event Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Catering and Restaurant Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Marketing and Hotel Promotion",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Institutional Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Tourism",
+                "programs": [
+                    {
+                        "name": "Maritime Transport and Navigation Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Tourism Guidance",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Tourism Marketing and Promotion",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Sustainable Tourism (educational, medical, environmental, presidential, family)",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Economics",
+                "programs": [],
+                "admission_requirements": []
+            },
+            {
+                "name": "Marketing and Advertising",
+                "programs": [
+                    {
+                        "name": "Advertising",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Cinema and Radio",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Magazines and TV",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Mobile Internet and Press",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Direct Mail and Publications",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Information Technology and Management",
+                "programs": [
+                    {
+                        "name": "Information Systems Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Computer Science",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Information Technology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Telecommunications",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Information Technology",
+                        "degree": "Master's",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Telecommunications",
+                        "degree": "Master's",
+                        "duration": "Variable"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Translation and Languages",
+                "programs": [
+                    {
+                        "name": "English Language and Translation",
+                        "degree": "Bachelor's",
+                        "duration": "Variable"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Fine Arts",
+                "programs": [
+                    {
+                        "name": "Fine Arts – Interior Design",
+                        "degree": "Bachelor's",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Graphic Design",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Computer Science and Engineering",
+                "programs": [
+                    {
+                        "name": "Computer Science",
+                        "degree": "Bachelor's",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Software Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Multimedia Systems",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Open Source Systems",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,472 @@
+{
+    "university": {
+        "name": "American University of Beirut",
+        "code": "AUB",
+        "id": "2",
+        "website": "https://www.aub.edu.lb",
+        "email": "",
+        "image": "AUB.png",
+        "contact_numbers": [],
+        "addresses": [
+            "Bliss Street, Ras Beirut, Lebanon"
+        ],
+        "study_system": {
+            "description": "",
+            "instruction_languages": [
+                "English",
+                "Arabic"
+            ],
+            "study_modes": [
+                "Full-time",
+                "Part-time"
+            ]
+        },
+        "faculties": [
+            {
+                "name": "Faculty of Agricultural and Food Sciences",
+                "programs": [
+                    {
+                        "name": "Agribusiness",
+                        "degree": "BS",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Food Science and Management",
+                        "degree": "BS",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Nutrition and Dietetics",
+                        "degree": "BS",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": [
+                    "High school diploma or equivalent",
+                    "Strong background in biology and chemistry",
+                    "Minimum SAT score of 1100 or equivalent",
+                    "English proficiency test (TOEFL or IELTS) for non-native speakers",
+                    "Personal statement and letters of recommendation"
+                ]
+            },
+            {
+                "name": "Faculty of Arts and Sciences",
+                "programs": [
+                    {
+                        "name": "Anthropology",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Arabic Language and Literature",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Archaeology",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Art History",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Biology",
+                        "degree": "BS",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Chemistry",
+                        "degree": "BS",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Computer Science",
+                        "degree": "BS",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Economics",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Elementary Education",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "English Language",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "English Literature",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Geology",
+                        "degree": "BS",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "History",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Mathematics",
+                        "degree": "BA, BS",
+                        "duration": "Variable"
+                    },
+                    {
+                        "name": "Media and Communication",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Petroleum Studies",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Philosophy",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Physics",
+                        "degree": "BS",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Political Studies",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Psychology",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Public Administration",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Sociology",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Statistics",
+                        "degree": "BA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Special Education",
+                        "degree": "Diploma",
+                        "duration": "1 year"
+                    },
+                    {
+                        "name": "Teaching Diploma",
+                        "degree": "TD",
+                        "duration": "1 year"
+                    }
+                ],
+                "admission_requirements": [
+                    "High school diploma or equivalent",
+                    "Strong academic record with emphasis on humanities or sciences depending on major",
+                    "Minimum SAT score of 1100 or equivalent",
+                    "English proficiency test (TOEFL or IELTS) for non-native speakers",
+                    "Personal statement"
+                ]
+            },
+            {
+                "name": "Faculty of Health Sciences",
+                "programs": [
+                    {
+                        "name": "Environmental Health",
+                        "degree": "BS",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Medical Laboratory Sciences",
+                        "degree": "BS",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Medical Imaging Sciences",
+                        "degree": "BS",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Medical Audiology Sciences",
+                        "degree": "BS",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Public Health",
+                        "degree": "BS, MPH",
+                        "duration": "Variable"
+                    }
+                ],
+                "admission_requirements": [
+                    "High school diploma or equivalent",
+                    "Strong background in biology, chemistry, and physics",
+                    "Minimum SAT score of 1150 or equivalent",
+                    "English proficiency test (TOEFL or IELTS) for non-native speakers",
+                    "Personal statement and letters of recommendation",
+                    "Interview (for some programs)"
+                ]
+            },
+            {
+                "name": "Rafic Hariri School of Nursing",
+                "programs": [
+                    {
+                        "name": "Nursing",
+                        "degree": "BS",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": [
+                    "High school diploma or equivalent",
+                    "Strong background in biology and chemistry",
+                    "Minimum SAT score of 1150 or equivalent",
+                    "English proficiency test (TOEFL or IELTS) for non-native speakers",
+                    "Personal statement",
+                    "Interview and entrance exam"
+                ]
+            },
+            {
+                "name": "Suliman S. Olayan School of Business",
+                "programs": [
+                    {
+                        "name": "Accounting",
+                        "degree": "BBA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Business Information and Decision Systems",
+                        "degree": "BBA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Entrepreneurship & Family Business",
+                        "degree": "BBA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Finance",
+                        "degree": "BBA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "General Management",
+                        "degree": "BBA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Human Resources Management",
+                        "degree": "BBA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Marketing",
+                        "degree": "BBA",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Executive MBA",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "MBA",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": [
+                    "High school diploma or equivalent (for undergraduate)",
+                    "Bachelor’s degree from an accredited university (for MBA)",
+                    "Minimum SAT score of 1150 or equivalent (undergraduate)",
+                    "GMAT or GRE score (for MBA programs)",
+                    "English proficiency test (TOEFL or IELTS) for non-native speakers",
+                    "Personal statement",
+                    "Letters of recommendation",
+                    "Interview (for MBA)"
+                ]
+            },
+            {
+                "name": "Maroun Semaan Faculty of Engineering and Architecture",
+                "programs": [
+                    {
+                        "name": "Civil Engineering",
+                        "degree": "BE",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Computer and Communications Engineering",
+                        "degree": "BE",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Electrical and Computer Engineering",
+                        "degree": "BE",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Mechanical Engineering",
+                        "degree": "BE",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Architecture",
+                        "degree": "BArch",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Biomedical Engineering",
+                        "degree": "BE",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Environmental Engineering",
+                        "degree": "BE",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": [
+                    "High school diploma or equivalent",
+                    "Strong background in mathematics and physics",
+                    "Minimum SAT score of 1200 or equivalent",
+                    "English proficiency test (TOEFL or IELTS) for non-native speakers",
+                    "Personal statement",
+                    "Letters of recommendation"
+                ]
+            },
+            {
+                "name": "Faculty of Medicine",
+                "programs": [
+                    {
+                        "name": "Medicine",
+                        "degree": "MD",
+                        "duration": "4-7 years"
+                    },
+                    {
+                        "name": "Biomedical Sciences",
+                        "degree": "BS",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Public Health",
+                        "degree": "MPH",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Medical Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": [
+                    "Bachelor’s degree in a related science field (for MD and graduate programs)",
+                    "High academic standing (minimum GPA 3.5)",
+                    "MCAT or equivalent entrance exam (for MD)",
+                    "English proficiency test (TOEFL or IELTS) for non-native speakers",
+                    "Personal statement",
+                    "Letters of recommendation",
+                    "Interview"
+                ]
+            },
+            {
+                "name": "Graduate Studies",
+                "programs": [
+                    {
+                        "name": "Master of Arts",
+                        "degree": "MA",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Master of Science",
+                        "degree": "MS",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Master of Business Administration",
+                        "degree": "MBA",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Master of Public Health",
+                        "degree": "MPH",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Master of Engineering",
+                        "degree": "MEng",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "PhD Programs",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": [
+                    "Bachelor’s degree from an accredited university",
+                    "Strong academic record (minimum GPA 3.0)",
+                    "Relevant standardized test scores (GMAT, GRE, MCAT, etc.) depending on program",
+                    "English proficiency test (TOEFL or IELTS) for non-native speakers",
+                    "Statement of purpose",
+                    "Letters of recommendation",
+                    "Interview (if applicable)"
+                ]
+            },
+            {
+                "name": "Faculty of Health Sciences (Graduate)",
+                "programs": [
+                    {
+                        "name": "Master of Science in Environmental Health",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Master of Science in Medical Laboratory Sciences",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Master of Science in Medical Imaging Sciences",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Master of Science in Audiology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Doctor of Nursing Practice",
+                        "degree": "DNP",
+                        "duration": "Variable"
+                    }
+                ],
+                "admission_requirements": [
+                    "Bachelor’s degree in related field",
+                    "Minimum GPA 3.0",
+                    "Relevant professional experience (for DNP)",
+                    "English proficiency test (TOEFL or IELTS) for non-native speakers",
+                    "Letters of recommendation",
+                    "Personal statement",
+                    "Interview"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "university": {
+        "name": "Lebanese International University",
+        "code": "LIU",
+        "id": 7,
+        "website": "https://www.liu.edu.lb",
+        "email": "info@liu.edu.lb",
+        "image": "LIU.jpg",
+        "contact_numbers": [
+            "01/706881",
+            "01/306044",
+            "08/640930",
+            "08/640871",
+            "08/901666",
+            "08/901656",
+            "08/902666",
+            "07/750550",
+            "07/751550",
+            "07/752550",
+            "07/767603",
+            "07/767601",
+            "07/351420",
+            "07/351410",
+            "01/490543",
+            "06/416333",
+            "06/417333",
+            "06/695488",
+            "06/695584"
+        ],
+        "addresses": [],
+        "study_system": {
+            "description": "The university follows the American system with semester-based terms (Fall, Spring, Summer). The language of instruction is English.",
+            "instruction_languages": [
+                "English",
+                "Arabic"
+            ],
+            "study_modes": [
+                "Full-time",
+                "Part-time"
+            ]
+        },
+        "faculties": [
+            {
+                "name": "Pharmacy",
+                "programs": [
+                    {
+                        "name": "Pharmacy",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Doctor of Pharmacy",
+                        "degree": "Doctorate",
+                        "duration": "Variable"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Business Administration",
+                "programs": [
+                    {
+                        "name": "Business Administration",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "International Business",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Hospitality and Tourism Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Accounting and Finance",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Information Systems",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Marketing",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Human Resources",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Accounting and Finance",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Human Resources Management",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Engineering",
+                "programs": [
+                    {
+                        "name": "Computer Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Electrical Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Electronics Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Biomedical Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Mechanical Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Industrial Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Telecommunication Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Engineering",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Education",
+                "programs": [
+                    {
+                        "name": "Early Childhood Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "English Language Teaching",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Translation",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Special Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Sciences Teaching (Biology, Chemistry, Physics)",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Diploma in Teaching",
+                        "degree": "Diploma",
+                        "duration": "1 year"
+                    },
+                    {
+                        "name": "Educational Management",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "English Language Teaching",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Arts and Sciences",
+                "programs": [
+                    {
+                        "name": "Biology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Chemistry",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Physics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Computer Science",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Information Technology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Computer Science",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Nutrition and Dietetics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Food Technology",
+                        "degree": "Master",
+                        "duration": "2 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Mass Communication and Fine Arts",
+                "programs": [
+                    {
+                        "name": "Radio and TV",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Advertising",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Public Relations",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Interior Design",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Decorative Arts",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "university": {
+        "name": "Lebanese American University (LAU)",
+        "code": "LAU",
+        "id": 6,
+        "website": "https://www.lau.edu.lb",
+        "email": "",
+        "image": "LAU.webp",
+        "contact_numbers": [],
+        "addresses": [],
+        "study_system": {
+            "description": "",
+            "instruction_languages": [
+                "English",
+                "Arabic"
+            ],
+            "study_modes": [
+                "Full-time",
+                "Part-time"
+            ]
+        },
+        "faculties": [
+            {
+                "name": "School of Architecture & Design",
+                "programs": [
+                    {
+                        "name": "Architecture",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Fashion Design",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Graphic Design",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Interior Design",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "School of Arts & Sciences",
+                "programs": [
+                    {
+                        "name": "Applied Physics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Bioinformatics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Biology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Chemistry",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Communication",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Computer Science",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Economics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "English",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Mathematics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Multimedia Journalism",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Political and International Studies",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Psychology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Adnan Kassar School of Business",
+                "programs": [
+                    {
+                        "name": "Business Studies",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Hospitality and Tourism Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "School of Engineering",
+                "programs": [
+                    {
+                        "name": "BE in Chemical Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "BE in Civil Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "BE in Computer Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "BE in Electrical Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "BE in Industrial Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "BE in Mechanical Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "BE in Mechatronics Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "BE in Petroleum Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Gilbert and Rose-Marie Chagoury School of Medicine",
+                "programs": [],
+                "admission_requirements": []
+            },
+            {
+                "name": "Alice Ramez Chagoury School of Nursing",
+                "programs": [
+                    {
+                        "name": "Nursing",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "School of Pharmacy",
+                "programs": [],
+                "admission_requirements": []
+            }
+        ]
+    }
+}

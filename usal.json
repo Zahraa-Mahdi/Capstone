@@ -1,0 +1,144 @@
+{
+    "university": {
+        "name": "Lebanese University of Arts, Sciences and Letters (USAL)",
+        "code": "USAL",
+        "id": 12,
+        "website": "www.usal.edu.lb",
+        "email": "info@usal.edu.lb",
+        "image": "usal.png",
+        "contact_numbers": [],
+        "addresses": [],
+        "study_system": {
+            "instruction_languages": [
+                "English",
+                "Arabic",
+                "French"
+            ],
+            "study_modes": [
+                "Morning",
+                "Evening",
+                "Semester-based"
+            ]
+        },
+        "faculties": [
+            {
+                "name": "Faculty of Administrative Sciences",
+                "programs": [
+                    {
+                        "name": "Accounting and Finance",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Economics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Financial Sciences",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Marketing Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Business Administration",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Human Resources",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Hospitality Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Management Information Systems",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Arts and Sciences",
+                "programs": [
+                    {
+                        "name": "Computer and Network Security",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Networking",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Programming",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Electronic Media",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Radio and Television Media",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Public Relations and Advertising",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Education",
+                "programs": [
+                    {
+                        "name": "Early Childhood Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Primary and Elementary Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "English Language Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Arabic Language Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Physical and Sports Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Preschool and Kindergarten Education",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            }
+        ]
+    }
+}

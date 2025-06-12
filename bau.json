@@ -1,0 +1,195 @@
+{
+    "university": {
+        "name": "Beirut Arab University (BAU)",
+        "code": "BAU",
+        "id": 5,
+        "website": "https://www.bau.edu.lb",
+        "email": "",
+        "image": "BAU.png",
+        "contact_numbers": [],
+        "addresses": [
+            "Debbieh, Mount Lebanon, Lebanon"
+        ],
+        "study_system": {
+            "description": "",
+            "instruction_languages": [
+                "English",
+                "Arabic"
+            ],
+            "study_modes": [
+                "Full-time",
+                "Part-time"
+            ]
+        },
+        "faculties": [
+            {
+                "name": "Faculty of Human Sciences",
+                "programs": [
+                    {
+                        "name": "Arabic Language and Literature",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "English Language and Literature",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "French Language and Literature",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Geography",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "History",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Philosophy",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Psychology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Sociology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Law & Political Science",
+                "programs": [],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Business Administration",
+                "programs": [
+                    {
+                        "name": "Accounting",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Banking & Finance",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Economics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Marketing",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Pharmacy",
+                "programs": [],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Medicine",
+                "programs": [],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Dentistry",
+                "programs": [],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Health Sciences",
+                "programs": [],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Architecture - Design & Built Environment",
+                "programs": [],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Engineering",
+                "programs": [
+                    {
+                        "name": "Biomedical Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Chemical Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Civil Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Communications and Electronics Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Computer Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Electrical Power and Machines Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Industrial Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Mechanical Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Mechatronics Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Petroleum Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Faculty of Science",
+                "programs": [],
+                "admission_requirements": []
+            }
+        ]
+    }
+}

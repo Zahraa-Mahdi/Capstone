@@ -1,0 +1,235 @@
+{
+    "university": {
+        "name": "American University of Science and Technology (AUST)",
+        "code": "AUST",
+        "id": 4,
+        "website": "www.aust.edu.lb",
+        "email": "info@aust.edu.lb",
+        "image": "AUST.png",
+        "contact_numbers": [
+            "01/339302",
+            "08/930894",
+            "07/754888",
+            "01/218716",
+            "07/754777"
+        ],
+        "addresses": [],
+        "study_system": {
+            "description": "The university uses the credit-hour system. English is the main teaching language in the English section, and French is used in the French section. Students must attend practical and theoretical classes.",
+            "instruction_languages": [
+                "English",
+                "Arabic"
+            ],
+            "study_modes": [
+                "Full-time",
+                "Part-time"
+            ]
+        },
+        "faculties": [
+            {
+                "name": "Business Administration",
+                "programs": [
+                    {
+                        "name": "Economics",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Accounting",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Finance",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Hotel Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Management (focuses: HR, Investments, International Business)",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Marketing",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Marketing and Advertising",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Tourism and Travel Management",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Management Information Systems",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Business Administration",
+                        "degree": "Bachelor's and Master's",
+                        "duration": "Variable"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Arts and Sciences",
+                "programs": [
+                    {
+                        "name": "Computer Science",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Information Technology and Telecommunications",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Interior Design",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Graphic Design - Fashion Design",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Graphic Design - Fine Arts",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Public Relations and Advertising",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Radio and TV",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "International Affairs",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "English Studies",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Translation (Bachelor's in Education)",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Communication Arts",
+                        "degree": "Master's",
+                        "duration": "Variable"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Health Sciences",
+                "programs": [
+                    {
+                        "name": "Medical Laboratory Sciences",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Radiologic Sciences",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Optometry and Vision Science",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Nursing",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Criminal Justice",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Nutrition",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Microbiology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Applied Toxicology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Biotechnology (Track: DNA / Forensic Science)",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Bio-analytical Toxicology",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Vision Science and Optometry",
+                        "degree": "Master's",
+                        "duration": "Variable"
+                    }
+                ],
+                "admission_requirements": []
+            },
+            {
+                "name": "Engineering",
+                "programs": [
+                    {
+                        "name": "Computer Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Telecommunications Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Biomedical Engineering",
+                        "degree": "Bachelor",
+                        "duration": "3-4 years"
+                    },
+                    {
+                        "name": "Mechatronics Engineering",
+                        "degree": "Bachelor's and Master's",
+                        "duration": "Variable"
+                    }
+                ],
+                "admission_requirements": []
+            }
+        ]
+    }
+}
