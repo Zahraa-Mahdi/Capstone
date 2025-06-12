@@ -1,0 +1,106 @@
+/* OppositeBlobs.css */
+:root {
+  --sky-blue: #D9E8F0;
+  --yellow: #F6C862;
+  --lavander: #EBDDEC;
+  --bej: #EED9BF;
+  --light-blue: #5EA8D6;
+  --orange: #F76B25;
+  --indigo: #3A5391;
+}
+
+.blobs-container {
+  position: relative;
+  width: 900px;
+  height: 700px;
+}
+
+.blob {
+  position: absolute;
+  border-radius: 50% 50% 45% 55% / 60% 45% 55% 40%;
+  background: linear-gradient(135deg, var(--blob-color-1), var(--blob-color-2));
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  overflow: hidden;
+  opacity: 0.9;
+}
+
+/* Main blob - Wider and centered */
+.main-blob {
+  width: 675px;
+  height: 450px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  animation: 
+    morph-main 9s infinite,
+    float-center 12s infinite;
+}
+
+.blob-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Opposite moving blobs */
+.opposite-blob-1 {
+  width: 675px;
+  height: 450px;
+  top: 13%;
+  left: 15%;
+  z-index: 1;
+  animation: 
+    morph-opposite-1 9s infinite,
+    float-left 12s infinite;
+}
+
+.opposite-blob-2 {
+  width:675px;
+  height: 450px;
+  top: 20%;
+  left: 10%;
+  z-index: 3;
+  animation: 
+    morph-opposite-2 5s infinite,
+    float-right 12s infinite;
+}
+
+/* Opposite movement animations */
+@keyframes float-center {
+  0%, 100% { transform: translate(-50%, -50%); }
+  25% { transform: translate(-52%, -53%); }
+  50% { transform: translate(-50%, -55%); }
+  75% { transform: translate(-48%, -53%); }
+}
+
+@keyframes float-left {
+  0%, 100% { transform: translateX(0) translateY(0); }
+  25% { transform: translateX(-30px) translateY(-20px); }
+  50% { transform: translateX(-50px) translateY(0); }
+  75% { transform: translateX(-30px) translateY(20px); }
+}
+
+@keyframes float-right {
+  0%, 100% { transform: translateX(0) translateY(0); }
+  25% { transform: translateX(30px) translateY(-20px); }
+  50% { transform: translateX(50px) translateY(0); }
+  75% { transform: translateX(30px) translateY(20px); }
+}
+
+/* Morph animations */
+@keyframes morph-main {
+  0%, 100% { border-radius: 40% 60% 40% 60% / 60% 40% 60% 40%; }
+  50% { border-radius: 60% 40% 60% 40% / 40% 60% 40% 60%; }
+}
+
+@keyframes morph-opposite-1 {
+  0%, 100% { border-radius: 45% 55% 50% 50% / 55% 45% 55% 45%; }
+  50% { border-radius: 55% 45% 50% 50% / 45% 55% 45% 55%; }
+}
+
+@keyframes morph-opposite-2 {
+  0%, 100% { border-radius: 50% 50% 45% 55% / 50% 50% 45% 55%; }
+  50% { border-radius: 50% 50% 55% 45% / 50% 50% 55% 45%; }
+}

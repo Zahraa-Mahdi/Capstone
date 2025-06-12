@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background elements -->
+  <circle cx="300" cy="200" r="180" fill="#EBF4FF" />
+  <circle cx="300" cy="200" r="150" fill="#BEE3F8" opacity="0.5" />
+  
+  <!-- Book -->
+  <path d="M200 150 L400 150 L400 300 L200 300 Z" fill="#4299E1" />
+  <path d="M200 150 L210 140 L410 140 L400 150 Z" fill="#3182CE" />
+  <path d="M400 300 L410 290 L410 140 L400 150 Z" fill="#2B6CB0" />
+  
+  <!-- Pages -->
+  <path d="M210 160 L390 160 L390 290 L210 290 Z" fill="white" />
+  <path d="M220 180 L380 180" stroke="#CBD5E0" stroke-width="2" />
+  <path d="M220 200 L380 200" stroke="#CBD5E0" stroke-width="2" />
+  <path d="M220 220 L380 220" stroke="#CBD5E0" stroke-width="2" />
+  <path d="M220 240 L380 240" stroke="#CBD5E0" stroke-width="2" />
+  <path d="M220 260 L300 260" stroke="#CBD5E0" stroke-width="2" />
+  
+  <!-- Decorative elements -->
+  <circle cx="150" cy="100" r="10" fill="#4299E1" />
+  <circle cx="450" cy="300" r="15" fill="#3182CE" />
+  <circle cx="400" cy="80" r="8" fill="#2B6CB0" />
+  <circle cx="180" cy="350" r="12" fill="#BEE3F8" />
+</svg> 

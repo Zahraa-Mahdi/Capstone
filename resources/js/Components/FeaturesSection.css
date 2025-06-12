@@ -1,0 +1,108 @@
+:root {
+  --sky-blue: #D9E8F0;
+  --yellow: #F6C862;
+  --lavander: #EBDDEC;
+  --bej: #EED9BF;
+  --light-blue: #5EA8D6;
+  --orange: #F76B25;
+  --indigo: #3A5391;
+  --black: #000000;
+  --white: #ffffff;
+}
+
+.feature-section {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding: 2rem 0;
+}
+
+.feature-image-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.background-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;  /* Image fills the space without distortion */
+  z-index: 1;
+  opacity: 0.5;
+  
+  border-radius: 12px;
+}
+
+/* Overlay content */
+.feature-overlay-content {
+  position: relative;
+  z-index: 2; /* Puts content above the image */
+  width: 100%;
+  height: 100%;
+  padding: 2rem;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.feature-title {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  color: var(--black);
+}
+
+.stat-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 60px;
+  justify-content: center;
+  z-index: 2;
+}
+
+.stat-card {
+  padding: 1rem;
+  border-radius: 12px;
+  min-width: 200px;
+  text-align: center;
+  color: var(--black);
+}
+.stat-box {
+  padding: 1rem 2rem;
+  border-radius: 12px;
+  color: white;
+  font-weight: bold;
+  /* Slant the box */
+  transform: skew(-10deg);
+  /* Add some shadow for depth */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  /* Smooth background color transition */
+  transition: background-color 0.3s ease;
+  /* Make sure child text doesn't skew */
+  display: inline-block;
+}
+
+/* To correct the text inside so it appears straight */
+.stat-box > .stat-number {
+  display: inline-block;
+  transform: skew(10deg);
+}
+.stat-box.yellow { background-color: #F6C862; }
+.stat-box.orange { background-color: var(--sky-blue); }
+.stat-box.teal { background-color: var(--orange); }
+.stat-box.fuchsia { background-color: var(--lavander); }
+
+.stat-number {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.stat-label {
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}

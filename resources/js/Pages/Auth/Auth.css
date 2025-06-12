@@ -1,0 +1,250 @@
+.auth-container {
+  min-height: calc(100vh - 64px); /* Subtract navbar height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  background-color: #f8fafc;
+  margin-top: 64px; /* Add margin equal to navbar height */
+}
+
+/* Common layout styles */
+.login-layout{
+  width: 100%;
+  max-width: 1000px;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1),
+              0 8px 10px -6px rgba(0, 0, 0, 0.1),
+              0 0 15px -3px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+}
+.register-layout {
+  width: 100%;
+  max-width: 1290px;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1),
+              0 8px 10px -6px rgba(0, 0, 0, 0.1),
+              0 0 15px -3px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+}
+
+.auth-content {
+  display: flex;
+  min-height: 600px;
+}
+
+/* Login specific styles */
+.login-layout .auth-content {
+  min-height: 500px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* Register specific styles */
+.register-layout .auth-content {
+  min-height: 500px;
+  max-width: 1290px;
+  margin: 0 auto;
+}
+
+.auth-form-section {
+  flex: 1;
+  padding: 2rem 3rem;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.auth-image-section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f7ff;
+  padding: 2rem;
+  text-align: center;
+}
+
+.lottie-container {
+  width: 100%;
+  max-width: 500px;
+  margin-bottom: 2rem;
+}
+
+.auth-form-section h1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: #1e293b;
+  margin-bottom: 0.75rem;
+}
+
+.auth-subtitle {
+  color: #64748b;
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
+}
+
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.form-group label {
+  font-weight: 500;
+  color: #334155;
+  font-size: 0.95rem;
+}
+
+.form-group input {
+  padding: 0.875rem 1rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.form-group input:focus {
+  outline: none;
+  border-color: #f59e0b;
+  box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.1);
+}
+
+.remember-forgot {
+  flex-direction: row !important;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.checkbox-label input[type="checkbox"] {
+  width: 1.125rem;
+  height: 1.125rem;
+  border-radius: 0.25rem;
+  border: 2px solid #e2e8f0;
+  cursor: pointer;
+}
+
+.checkbox-label input[type="checkbox"]:checked {
+  background-color: #f59e0b;
+  border-color: #f59e0b;
+}
+
+.checkbox-label span {
+  color: #64748b;
+  font-size: 0.95rem;
+}
+
+.forgot-password {
+  color: #f59e0b;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.forgot-password:hover {
+  text-decoration: underline;
+}
+
+.auth-button {
+  background-color: #f59e0b;
+  color: white;
+  padding: 0.875rem;
+  border: none;
+  border-radius: 0.5rem;
+  font-weight: 500;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  margin-top: 0.5rem;
+}
+
+.auth-button:hover {
+  background-color: #d97706;
+}
+
+.auth-button:disabled {
+  background-color: #94a3b8;
+  cursor: not-allowed;
+}
+
+.auth-redirect {
+  text-align: center;
+  color: #64748b;
+  font-size: 0.95rem;
+}
+
+.auth-redirect a {
+  color: #f59e0b;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.auth-redirect a:hover {
+  text-decoration: underline;
+}
+
+.error-message {
+  background-color: #fee2e2;
+  color: #dc2626;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .auth-content {
+    flex-direction: column;
+  }
+
+  .auth-image-section {
+    display: none;
+  }
+
+  .auth-form-section {
+    padding: 2.5rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .auth-container {
+    padding: 1rem;
+  }
+
+  .auth-form-section {
+    padding: 1.5rem;
+  }
+
+  .auth-form-section h1 {
+    font-size: 1.75rem;
+  }
+
+  .auth-subtitle {
+    font-size: 1rem;
+  }
+}
+
+/* Terms & Conditions checkbox styling */
+.terms {
+  margin: 0.75rem 0 1.5rem;
+}
+
+.terms .checkbox-label {
+  color: #64748b;
+} 

@@ -1,0 +1,35 @@
+@keyframes flyAcross {
+  0% {
+    transform: translateX(-100px) translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  50% {
+    transform: translateX(50vw) translateY(-30vh) rotate(180deg);
+    opacity: 0.7;
+  }
+  100% {
+    transform: translateX(110vw) translateY(0) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+.flying-shape {
+  position: fixed;
+  top: 50%;
+  left: 0;
+  font-size: 2rem;
+  color: #F76B25; /* your accent color */
+  animation-name: flyAcross;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  pointer-events: none; /* so it doesn't block clicks */
+}
+
+@keyframes orbit {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

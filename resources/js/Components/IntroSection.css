@@ -1,0 +1,143 @@
+:root {
+  --sky-blue: #D9E8F0;
+  --yellow: #F6C862;
+  --lavander: #EBDDEC;
+  --bej: #EED9BF;
+  --light-blue: #5EA8D6;
+  --orange: #F76B25;
+  --indigo: #3A5391;
+  --black: #000000;
+  --white: #ffffff;
+}
+
+/* Utility Classes for Backgrounds */
+.bg-sky-blue {
+  --card-bg: var(--white);
+  --card-frame: var(--light-blue);
+}
+
+.bg-yellow {
+  --card-bg: var(--white);
+  --card-frame: var(--yellow);
+}
+
+.bg-lavander {
+  --card-bg: var(--white);
+  --card-frame: var(--orange);
+}
+
+
+
+.bg-light-blue {
+  --card-bg: var(--white);
+  --card-frame: var(--light-blue);
+}
+
+.bg-orange {
+  --card-bg: var(--white);
+  --card-frame: var(--orange);
+}
+
+.bg-indigo {
+  --card-bg: var(--white);
+  --card-frame: var(--indigo);
+}
+
+.intro-section {
+  padding: 12rem 3rem 3rem;
+  
+}
+
+/* Title Styling */
+.intro-section p {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  font-weight: 600;
+}
+.unique-underline {
+  border-bottom: 5px solid orange; /* orange underline */
+  display: inline-block;            /* needed for border-bottom on inline text */
+  padding-bottom: 2px;              /* optional: space between text and underline */
+}
+
+.unique-underline:before {
+        height: 8px;
+        width: 80px;
+        bottom: -2px;
+}
+/* Grid Layout */
+.tools-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 4rem;
+}
+
+/* Card Wrapper Frame */
+.tool-card-wrapper {
+  position: relative;
+  border-radius: 1rem;
+  z-index: 0;
+}
+
+/* Frame Background */
+.tool-card-wrapper::before {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: -10px;
+  width: 100%;
+  height: 100%;
+  background-color: var(--card-frame, #ccc);
+  border-radius: 1rem;
+  z-index: -1;
+}
+
+/* Main Card Style */
+.tool-card {
+  background-color: var(--card-bg, #fff);
+  border-radius: 1rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+  border: 2px solid var(--card-frame, transparent);
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  transition: transform 0.3s ease;
+  height: 100%;
+}
+
+.tool-card:hover {
+  transform: translateY(-5px);
+}
+.tool-text{
+    text-align: left;
+}
+/* Image/Icon */
+.tool-card img {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 1rem;
+  object-fit: contain;
+}
+
+/* Tool Title */
+.tool-card h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+/* Tool Description */
+.tool-card p {
+  font-size: 0.95rem;
+  color: var(--text-muted, #666);
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .tools-grid {
+    grid-template-columns: 2fr;
+  }
+}

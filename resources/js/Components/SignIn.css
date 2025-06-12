@@ -1,0 +1,108 @@
+:root {
+  --sky-blue: #D9E8F0;
+  --yellow: #F6C862;
+  --lavander: #EBDDEC;
+  --bej: #EED9BF;
+  --light-blue: #5EA8D6;
+  --orange: #F76B25;
+  --indigo: #3A5391;
+  --black: #000000;
+  --white: #ffffff;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+/* Main container with Lottie + form */
+.signin-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  min-height: 100vh;
+  padding: 2rem;
+  background-color: var(--sky-blue);
+  color: var(--black);
+}
+
+/* Lottie animation box */
+.animation-container {
+  width: 700px;
+  height: auto;
+  overflow: hidden;
+}
+
+/* Card-like container for the form */
+.form-container {
+  flex: 1;
+  max-width: 400px;
+  height: 500px;
+  background-color: var(--white);
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  -webkit-backdrop-filter: blur(8px); /* For Safari */
+  backdrop-filter: blur(8px);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin-bottom: 1rem;
+  background-color: var(--sky-blue);
+  padding: 0.75rem;
+  border-radius: 6px;
+  border: none;
+  font-size: 1rem;
+  outline: none;
+  transition: box-shadow 0.3s ease;
+}
+
+input:focus {
+  box-shadow: 0 0 0 3px var(--light-blue);
+}
+
+/* Default submit button */
+button[type="submit"] {
+  background-color: var(--orange); /* Replaced --red */
+  color: var(--white);
+  padding: 0.75rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  margin-top: 0.5rem;
+}
+
+button[type="submit"]:hover {
+  background-color: var(--lavander); /* Fixed typo */
+}
+
+.google-btn {
+  background-color: var(--white);
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.google-btn img {
+  width: 20px;
+  height: 20px;
+}
+
+p {
+  margin-top: 1rem;
+  font-weight: 600;
+  text-align: center;
+}

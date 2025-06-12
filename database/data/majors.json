@@ -1,0 +1,438 @@
+[
+    {
+      "id": 1,
+      "name": "Accounting"
+    },
+    {
+      "id": 2,
+      "name": "Advertising and Public Relations"
+    },
+    {
+      "id": 3,
+      "name": "Agribusiness"
+    },
+    {
+      "id": 4,
+      "name": "Anthropology"
+    },
+    {
+      "id": 5,
+      "name": "Applied Physics"
+    },
+    {
+      "id": 6,
+      "name": "Applied Statistics"
+    },
+    {
+      "id": 7,
+      "name": "Arabic Language and Literature"
+    },
+    {
+      "id": 8,
+      "name": "Archaeology"
+    },
+    {
+      "id": 9,
+      "name": "Architecture"
+    },
+    {
+      "id": 10,
+      "name": "Art History"
+    },
+    {
+      "id": 11,
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": 12,
+      "name": "Banking & Finance"
+    },
+    {
+      "id": 13,
+      "name": "Bioinformatics"
+    },
+    {
+      "id": 14,
+      "name": "Biology"
+    },
+    {
+      "id": 15,
+      "name": "Biomedical Engineering"
+    },
+    {
+      "id": 16,
+      "name": "Business Information and Decision Systems"
+    },
+    {
+      "id": 17,
+      "name": "Business Management"
+    },
+    {
+      "id": 18,
+      "name": "Business Studies"
+    },
+    {
+      "id": 19,
+      "name": "Chemical Engineering"
+    },
+    {
+      "id": 20,
+      "name": "Chemistry"
+    },
+    {
+      "id": 21,
+      "name": "Civil Engineering"
+    },
+    {
+      "id": 22,
+      "name": "Clinical Laboratory Science"
+    },
+    {
+      "id": 23,
+      "name": "Communication Arts: Track Digital Advertising"
+    },
+    {
+      "id": 24,
+      "name": "Communications and Electronics Engineering"
+    },
+    {
+      "id": 25,
+      "name": "Comparative Religions"
+    },
+    {
+      "id": 26,
+      "name": "Computer & Communications Engineering"
+    },
+    {
+      "id": 27,
+      "name": "Computer Communications"
+    },
+    {
+      "id": 28,
+      "name": "Computer Engineering"
+    },
+    {
+      "id": 29,
+      "name": "Computer Engineering and Technology"
+    },
+    {
+      "id": 30,
+      "name": "Computer Science"
+    },
+    {
+      "id": 31,
+      "name": "Computer and Communications Engineering"
+    },
+    {
+      "id": 32,
+      "name": "Computing with Business"
+    },
+    {
+      "id": 33,
+      "name": "Dentistry"
+    },
+    {
+      "id": 34,
+      "name": "Early Childhood Education"
+    },
+    {
+      "id": 35,
+      "name": "Economics"
+    },
+    {
+      "id": 36,
+      "name": "Education"
+    },
+    {
+      "id": 37,
+      "name": "Electrical Power and Machines Engineering"
+    },
+    {
+      "id": 38,
+      "name": "Electrical and Computer Engineering"
+    },
+    {
+      "id": 39,
+      "name": "Electrical and Electronics Engineering"
+    },
+    {
+      "id": 40,
+      "name": "Elementary Education"
+    },
+    {
+      "id": 41,
+      "name": "English"
+    },
+    {
+      "id": 42,
+      "name": "English Language"
+    },
+    {
+      "id": 43,
+      "name": "English Literature"
+    },
+    {
+      "id": 44,
+      "name": "Entrepreneurship & Family Business"
+    },
+    {
+      "id": 45,
+      "name": "Environmental Health"
+    },
+    {
+      "id": 46,
+      "name": "Fashion Design"
+    },
+    {
+      "id": 47,
+      "name": "Finance"
+    },
+    {
+      "id": 48,
+      "name": "Finance & Micro-Finance"
+    },
+    {
+      "id": 49,
+      "name": "Finance Track Financial Engineering"
+    },
+    {
+      "id": 50,
+      "name": "Fine Arts"
+    },
+    {
+      "id": 51,
+      "name": "Food Science and Management"
+    },
+    {
+      "id": 52,
+      "name": "French Language"
+    },
+    {
+      "id": 53,
+      "name": "General Management"
+    },
+    {
+      "id": 54,
+      "name": "Geography"
+    },
+    {
+      "id": 55,
+      "name": "Geology"
+    },
+    {
+      "id": 56,
+      "name": "Graphic Design"
+    },
+    {
+      "id": 57,
+      "name": "Graphic and Multimedia Design Technology"
+    },
+    {
+      "id": 58,
+      "name": "History"
+    },
+    {
+      "id": 59,
+      "name": "History and Comparative Civilizations"
+    },
+    {
+      "id": 60,
+      "name": "Hospitality Management"
+    },
+    {
+      "id": 61,
+      "name": "Hospitality and Tourism Management"
+    },
+    {
+      "id": 62,
+      "name": "Human Resources Management"
+    },
+    {
+      "id": 63,
+      "name": "Industrial Engineering"
+    },
+    {
+      "id": 64,
+      "name": "Information Technology and Computing"
+    },
+    {
+      "id": 65,
+      "name": "Interior Design"
+    },
+    {
+      "id": 66,
+      "name": "International Hospitality Management"
+    },
+    {
+      "id": 67,
+      "name": "International Tourism Management"
+    },
+    {
+      "id": 68,
+      "name": "Islamic Studies"
+    },
+    {
+      "id": 69,
+      "name": "Journalism and Digital Media"
+    },
+    {
+      "id": 70,
+      "name": "Law"
+    },
+    {
+      "id": 71,
+      "name": "Management"
+    },
+    {
+      "id": 72,
+      "name": "Management Information Systems"
+    },
+    {
+      "id": 73,
+      "name": "Marketing"
+    },
+    {
+      "id": 74,
+      "name": "Marketing & Advertising"
+    },
+    {
+      "id": 75,
+      "name": "Mathematics"
+    },
+    {
+      "id": 76,
+      "name": "Mechanical Engineering"
+    },
+    {
+      "id": 77,
+      "name": "Mechatronics Engineering"
+    },
+    {
+      "id": 78,
+      "name": "Media Studies"
+    },
+    {
+      "id": 79,
+      "name": "Media and Communication"
+    },
+    {
+      "id": 80,
+      "name": "Medical Audiology Sciences"
+    },
+    {
+      "id": 81,
+      "name": "Medical Imaging Sciences"
+    },
+    {
+      "id": 82,
+      "name": "Medical Laboratory Sciences"
+    },
+    {
+      "id": 83,
+      "name": "Medicine"
+    },
+    {
+      "id": 84,
+      "name": "Multimedia Journalism"
+    },
+    {
+      "id": 85,
+      "name": "Nursing"
+    },
+    {
+      "id": 86,
+      "name": "Nutrition and Dietetics"
+    },
+    {
+      "id": 87,
+      "name": "Optics & Optometry"
+    },
+    {
+      "id": 88,
+      "name": "Petroleum Engineering"
+    },
+    {
+      "id": 89,
+      "name": "Petroleum Studies"
+    },
+    {
+      "id": 90,
+      "name": "Pharmacy"
+    },
+    {
+      "id": 91,
+      "name": "Philosophy"
+    },
+    {
+      "id": 92,
+      "name": "Philosophy and Theology"
+    },
+    {
+      "id": 93,
+      "name": "Physics"
+    },
+    {
+      "id": 94,
+      "name": "Political Studies"
+    },
+    {
+      "id": 95,
+      "name": "Political and International Studies"
+    },
+    {
+      "id": 96,
+      "name": "Primary Education"
+    },
+    {
+      "id": 97,
+      "name": "Psychology"
+    },
+    {
+      "id": 98,
+      "name": "Public Administration"
+    },
+    {
+      "id": 99,
+      "name": "Quranic Studies and Prophetic Hadith"
+    },
+    {
+      "id": 100,
+      "name": "Radio and Television"
+    },
+    {
+      "id": 101,
+      "name": "Radiologic Sciences"
+    },
+    {
+      "id": 102,
+      "name": "Sociology"
+    },
+    {
+      "id": 103,
+      "name": "Special Education"
+    },
+    {
+      "id": 104,
+      "name": "Statistics"
+    },
+    {
+      "id": 105,
+      "name": "Teaching Diploma"
+    },
+    {
+      "id": 106,
+      "name": "Teaching Physical and Health Education"
+    },
+    {
+      "id": 107,
+      "name": "Teaching Religious Education"
+    },
+    {
+      "id": 108,
+      "name": "Teaching of Mathematics and Sience"
+    },
+    {
+      "id": 109,
+      "name": "Translation"
+    }
+  ]
